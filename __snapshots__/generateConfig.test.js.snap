@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`快照2 1`] = `
+Object {
+  "port": "8080",
+  "server": "http://localhost",
+  "version": 2,
+}
+`;
